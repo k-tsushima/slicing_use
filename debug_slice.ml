@@ -1,3 +1,5 @@
+(* This file is written by Naho Wakikawa and Kanae Tsushima. *)
+
 (* open Misc *)
 (* open Path *)
 open Asttypes
