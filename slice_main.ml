@@ -1,3 +1,6 @@
+(* This file is written by Kanae Tsushima. *)
+(* This is for APLAS2018 submission: "A Multislice Approach to Locating Type Error Culprits" *)
+
 open Asttypes
 open Parsetree
 open Debug_core
