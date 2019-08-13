@@ -1,5 +1,5 @@
-(* This file is written by Naho Wakikawa, Kenichi Asai and Kanae Tsushima. *)
-
+(* This file is written by Naho Wakikawa and Kanae Tsushima. *)
+(* including functions for slicing *)
 
 open Asttypes
 open Ast_helper
